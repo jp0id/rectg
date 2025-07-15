@@ -8,7 +8,7 @@
 - `GitHub Trending Daily `: [https://t.me/GitHubDailys](https://t.me/GitHubDailys)
 - `硬核科技资讯`: [https://t.me/AAACatShare](https://t.me/AAACatShare)
 - `下饭时间`: [https://t.me/xqsranimegif](https://t.me/xqsranimegif)
-- `V2EX Feed 新贴`: [https://t.me/v2exfeed](https://t.me/v2exfeed)
+- `V2EX Feed 新贴`: [https://t.me/v2ex_feed](https://t.me/v2ex_feed)
 - `📊 Polls Channel`: [https://t.me/polls_channel](https://t.me/polls_channel)
 - `Duyao｜SpeedTest｜科技生活｜资讯转发`: [https://t.me/DuyaoSS](https://t.me/DuyaoSS)
 - `完美弧度`: [https://t.me/wanmeihudu](https://t.me/wanmeihudu)
